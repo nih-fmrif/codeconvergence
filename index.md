@@ -5,7 +5,8 @@ Thanks to everyone who'll be coming to work with us at the DC Code Convergence n
 The wifi at the FAES SAC is pretty good, but if we're all downloading large volumes of data at the same time, it's going to start to drag a bit.  
 * [Have a working AFNI install](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/background_install/install_instructs/index.html)
 * [Download the the test dataset (watch out, this is 5.5 GB)](https://afni.nimh.nih.gov/pub/dist/data/misc/UCLA_pamenc20.tgz)
-* [Download the AFNI Build docker image]()  
+* [Download the AFNI Build docker image]()
+
 ### If you think you might want the AFNI Bootcamp data next week, download them here
 * [Bootcamp Data](https://afni.nimh.nih.gov/pub/dist/edu/data/CD)
 * [Bootcamp Data Expanded](https://afni.nimh.nih.gov/pub/dist/edu/data/CD.expanded)
