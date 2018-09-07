@@ -1,6 +1,14 @@
 # DC Code Convergence 2018
 
-Thanks to everyone who'll be coming to work with us at the DC Code Convergence next week.
+Thanks to everyone who'll be coming to work with us at the DC Code Convergence next week.  
+### EVERYONE: Please have these downloaded before Monday morning!  
+The wifi at the FAES SAC is pretty good, but if we're all downloading large volumes of data at the same time, it's going to start to drag a bit.  
+* [Have a working AFNI install](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/background_install/install_instructs/index.html)
+* [Download the the test dataset (watch out, this is 5.5 GB)](https://afni.nimh.nih.gov/pub/dist/data/misc/UCLA_pamenc20.tgz)
+* [Download the AFNI Build docker image]()  
+### If you think you might want the AFNI Bootcamp data next week, download them here
+* [Bootcamp Data](https://afni.nimh.nih.gov/pub/dist/edu/data/CD)
+* [Bootcamp Data Expanded](https://afni.nimh.nih.gov/pub/dist/edu/data/CD.expanded)
 
 ### Where
 We'll be at the FAES Social and Academic Center (SAC) ([9101 Old Georgetown Rd, Bethesda, MD](https://www.google.com/maps/place/Foundation+For+Advanced+Ed/@39.0051452,-77.1125235,17z/data=!4m5!3m4!1s0x89b7cbe4fb559a17:0xadfa07f7521a5d37!8m2!3d39.005099!4d-77.110339?shorturl=1)).
@@ -12,9 +20,13 @@ Wednesday evening there will be a celebration at Bob's house - about 1 mile from
 
 ### What
 
-Bob will do an introductory presentation on Monday at 10:00 am, covering some aspects of AFNI that will be helpful for hacking with it that you might not be totally familiar with. Other than that, we'll run the week with relatively little formal structure. If there are topics, packages, tools, etc. that anyone would like to discuss, we'll pick a time and announce it on this mailing list, Slack, and maybe Bob's twitter feed @AFNIman. 
+Bob will do an introductory [presentation](https://drive.google.com/file/d/0B-qEq1UpvjfpRm1xcy1nQ25SWi1tUWE4b0NOZUhWVmlBWDI4/view?usp=sharing) on Monday at 10:00 am, covering some aspects of AFNI that will be helpful for hacking with it that you might not be totally familiar with. Other than that, we'll run the week with relatively little formal structure. If there are topics, packages, tools, etc. that anyone would like to discuss, we'll pick a time and announce it on this mailing list, Slack, and maybe Bob's twitter feed @AFNIman.
 
-The list of project ideas is https://docs.google.com/document/d/1MFRquI4tGwk983B1BZAh9_APExSAWTHacLITZA-K3JQ/edit. Please feel free to make any suggestions.
+#### Links
+* [List of project ideas](https://docs.google.com/document/d/1MFRquI4tGwk983B1BZAh9_APExSAWTHacLITZA-K3JQ/edit). Please feel free to make any suggestions.
+* [AFNI documentation](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/index.html)
+* [BIDS Main](http://bids.neuroimaging.io)
+* [BIDS Derivatives](https://docs.google.com/document/d/1Wwc4A6Mow4ZPPszDIWfCUCRNstn7d_zzaWPcfcHmgI4/edit)
 
 ### Eating
 
