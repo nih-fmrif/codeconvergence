@@ -22,6 +22,8 @@ Wednesday evening there will be a celebration at Bob's house - about 1 mile from
 
 Bob will do an introductory [presentation](https://drive.google.com/file/d/0B-qEq1UpvjfpRm1xcy1nQ25SWi1tUWE4b0NOZUhWVmlBWDI4/view?usp=sharing) on Monday at 10:00 am, covering some aspects of AFNI that will be helpful for hacking with it that you might not be totally familiar with. Other than that, we'll run the week with relatively little formal structure. If there are topics, packages, tools, etc. that anyone would like to discuss, we'll pick a time and announce it on this mailing list, Slack, and maybe Bob's twitter feed @AFNIman.
 
+We'll be using riot for the group chat for this event. [Please join us there.](https://riot.im/app/#/room/#DCCC:matrix.org) (Maybe start keeping an eye on this channel Sunday evening, we'll be making ad-hoc social plans on that channel.)
+
 #### Links
 * [List of project ideas](https://docs.google.com/document/d/1MFRquI4tGwk983B1BZAh9_APExSAWTHacLITZA-K3JQ/edit). Please feel free to make any suggestions.
 * [AFNI documentation](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/index.html)
