@@ -1,6 +1,11 @@
+# DC Code Convergence 2019
+
+Tentatively planned for November 11th to 15th, following the AFNI Bootcamp on the NIH campus from November 4th to 8th. Futher details TBA. Please contact Dylan.Nielson@nih.gov if you are interested in attending.
+
 # DC Code Convergence 2018
 
-Thanks to everyone who'll be coming to work with us at the DC Code Convergence next week.  
+Thanks to everyone who made it out for 2018, it was a great week! You can find summaries of the projects we worked on [here](https://github.com/nih-fmrif/code-convergence-summaries/issues). 
+
 ### EVERYONE: Please have these downloaded before Monday morning!  
 The wifi at the FAES SAC is pretty good, but if we're all downloading large volumes of data at the same time, it's going to start to drag a bit.  
 * [Have a working AFNI install](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/background_install/install_instructs/index.html)
