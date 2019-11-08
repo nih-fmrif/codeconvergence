@@ -10,6 +10,8 @@ The wifi at the FAES SAC is pretty good, but if we're all downloading large volu
 * [Bootcamp Data](https://afni.nimh.nih.gov/pub/dist/edu/data/CD)
 * [Bootcamp Data Expanded](https://afni.nimh.nih.gov/pub/dist/edu/data/CD.expanded)
 
+John has compiled a set of [instructions for container based setup](https://docs.google.com/document/d/1bzSx3by_2s0GYnXpa7_PXVxTkZbnnY8MFWIk5Gc_BfU/edit#heading=h.ev82ke2vzlzm). Please try to download containers you want to use before Monday so that we don't all lose a day waiting on downloads.
+
 ### Where
 We'll be at the FAES Social and Academic Center (SAC) ([9101 Old Georgetown Rd, Bethesda, MD](https://www.google.com/maps/place/Foundation+For+Advanced+Ed/@39.0051452,-77.1125235,17z/data=!4m5!3m4!1s0x89b7cbe4fb559a17:0xadfa07f7521a5d37!8m2!3d39.005099!4d-77.110339?shorturl=1)).
 
@@ -43,6 +45,7 @@ Unless otherwise noted, the event will run from 9:00am to ~6:00pm
 * 1:00 pm: Project presentations
 
 #### Links
+* [Container based setup](https://docs.google.com/document/d/1bzSx3by_2s0GYnXpa7_PXVxTkZbnnY8MFWIk5Gc_BfU/edit#heading=h.ev82ke2vzlzm)
 * [List of project ideas](https://docs.google.com/document/d/1pTI5gjKcyIJxSYezs2-SPYsJlfrNTuTOiVC0MZCynkg/edit). Please feel free to make any suggestions.
 * [AFNI documentation](https://afni.nimh.nih.gov/pub/dist/doc/htmldoc/index.html)
 * [BIDS Main](http://bids.neuroimaging.io)
