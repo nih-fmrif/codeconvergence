@@ -31,6 +31,8 @@ Unless otherwise noted, the event will run from 9:00am to ~6:00pm
 
 #### Monday, November 11th
 * 10:00 am: Introduction from Bob
+*  1:00 pm: MRIcrogl with AFNI
+*  3:00 pm: False discovery rate 
 
 #### Tuesday, November 12th
 * 5:00 pm: Ending early due to other event at the house
